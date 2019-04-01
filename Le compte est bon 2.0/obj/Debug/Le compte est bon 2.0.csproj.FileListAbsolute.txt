@@ -1,0 +1,21 @@
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.exe.config
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.exe
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.pdb
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le_compte_est_bon_2._0.Form1.resources
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le_compte_est_bon_2._0.Properties.Resources.resources
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csproj.GenerateResource.Cache
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.exe
+C:\Users\Aymeric\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.pdb
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.exe.config
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.exe
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\bin\Debug\Le compte est bon 2.0.pdb
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csprojAssemblyReference.cache
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le_compte_est_bon_2._0.Form1.resources
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le_compte_est_bon_2._0.Properties.Resources.resources
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csproj.GenerateResource.cache
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.exe
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le compte est bon 2.0.pdb
+C:\Users\lauro\OneDrive\Bureau\SAUVEGARDE PC\source\repos\Le compte est bon 2.0\Le compte est bon 2.0\obj\Debug\Le_compte_est_bon_2._0.end.resources
